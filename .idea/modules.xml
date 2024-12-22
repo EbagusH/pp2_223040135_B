@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan_7/Membership/Membership.iml" filepath="$PROJECT_DIR$/Pertemuan_7/Membership/Membership.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Perorangan.iml" filepath="$PROJECT_DIR$/Perorangan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan_100/Pertemuan_100.iml" filepath="$PROJECT_DIR$/Pertemuan_100/Pertemuan_100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan_3/Pertemuan_3.iml" filepath="$PROJECT_DIR$/Pertemuan_3/Pertemuan_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan_6/Pertemuan_6.iml" filepath="$PROJECT_DIR$/Pertemuan_6/Pertemuan_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan_7/Pertemuan_7.iml" filepath="$PROJECT_DIR$/Pertemuan_7/Pertemuan_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan_8/Pertemuan_8.iml" filepath="$PROJECT_DIR$/Pertemuan_8/Pertemuan_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan_3/Tugas4_Studi_Kasus/Tugas4_Studi_Kasus.iml" filepath="$PROJECT_DIR$/Pertemuan_3/Tugas4_Studi_Kasus/Tugas4_Studi_Kasus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan_7/Membership/libs/libs.iml" filepath="$PROJECT_DIR$/Pertemuan_7/Membership/libs/libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan_8/mapper/mapper.iml" filepath="$PROJECT_DIR$/Pertemuan_8/mapper/mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan_8/model/model.iml" filepath="$PROJECT_DIR$/Pertemuan_8/model/model.iml" />
+    </modules>
+  </component>
+</project>

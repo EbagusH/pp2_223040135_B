@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/-/-.iml" filepath="$PROJECT_DIR$/-/-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Membership/Membership.iml" filepath="$PROJECT_DIR$/Membership/Membership.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan_7.iml" filepath="$PROJECT_DIR$/Pertemuan_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/src/Tugas.iml" filepath="$PROJECT_DIR$/Tugas/src/Tugas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/Tugas2.iml" filepath="$PROJECT_DIR$/Tugas/Tugas2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/build/build.iml" filepath="$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/build/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/build/build2.iml" filepath="$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/build/build2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/main/core-api/core-api.iml" filepath="$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/main/core-api/core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/main/core-api/core-api2.iml" filepath="$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/main/core-api/core-api2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/main/core-impl/core-impl.iml" filepath="$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/main/core-impl/core-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/main/core-impl/core-impl2.iml" filepath="$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/main/core-impl/core-impl2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/demo/demo.iml" filepath="$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/demo/demo2.iml" filepath="$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/demo/demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/generated/generated.iml" filepath="$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/generated/generated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/generated/generated2.iml" filepath="$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/generated/generated2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/legacy/legacy.iml" filepath="$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/legacy/legacy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/legacy/legacy2.iml" filepath="$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/legacy/legacy2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/main/protocol-impl/protocol-impl.iml" filepath="$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/main/protocol-impl/protocol-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/main/protocol-impl/protocol-impl2.iml" filepath="$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/main/protocol-impl/protocol-impl2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/test/test.iml" filepath="$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/test/test2.iml" filepath="$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/main/user-api/user-api.iml" filepath="$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/main/user-api/user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/main/user-api/user-api2.iml" filepath="$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/main/user-api/user-api2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/main/user-impl/user-impl.iml" filepath="$PROJECT_DIR$/Tugas/libs/mysql-connector-j-9.1.0.jar/src/main/user-impl/user-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/main/user-impl/user-impl2.iml" filepath="$PROJECT_DIR$/-/libs/mysql-connector-j-9.1.0/src/main/user-impl/user-impl2.iml" />
+    </modules>
+  </component>
+</project>
